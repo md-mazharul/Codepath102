@@ -4,7 +4,7 @@ Submitted by: **Md Mazharul Islam Omit**
 
 This web app: **A community resource guide for South Asian/Bangladeshi businesses in the local area, showcasing restaurants, grocery stores, and pharmacies — each with a Google Maps link so visitors can easily find and visit them.**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
